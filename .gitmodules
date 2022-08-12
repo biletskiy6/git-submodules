@@ -1,0 +1,3 @@
+[submodule "plugins/tan-organization-plugin"]
+	path = plugins/tan-organization-plugin
+	url = git@gitlab.tangram.biz:legalifeukraine/interactivemap/tan-organizations-plugin.git
